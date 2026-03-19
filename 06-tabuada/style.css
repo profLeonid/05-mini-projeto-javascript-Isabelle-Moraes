@@ -123,18 +123,14 @@ thead th {
 thead th:last-child {
   text-align: right;
 }
-
-tbody tr {
-  border-bottom: 1px solid #1f2937;
+#resultado {
+    color: white;
 }
 
-tbody td {
-  padding: 12px 0;
-  font-size: 1rem;
+table {
+    color: white;
 }
 
-tbody td:last-child {
-  text-align: right;
-  color: #facc15;
-  font-weight: 700;
+td, th {
+    color: white;
 }
